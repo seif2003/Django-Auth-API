@@ -1,5 +1,3 @@
-# Django-Auth-API
-This is a Django-based authentication API that provides endpoints for user registration and login. It’s designed to be simple, secure, and efficient, making it easy to manage user accounts in your applications.
 # Django Auth API
 
 This is a Django-based authentication API that provides endpoints for user registration and login. It's designed to be simple, secure, and efficient, making it easy to manage user accounts in your applications.
